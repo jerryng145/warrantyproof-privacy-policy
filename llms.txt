@@ -1,0 +1,32 @@
+# WarrantyProof: Receipts
+
+WarrantyProof: Receipts is an iOS receipt and warranty tracker for keeping proof of purchase, warranty expiry dates, serial numbers, retailer details, and claim notes organized before something breaks.
+
+## Official Pages
+
+- Product and support site: https://jerryng145.github.io/warrantyproof-privacy-policy/
+- Privacy policy: https://jerryng145.github.io/warrantyproof-privacy-policy/privacy.html
+- Support: https://jerryng145.github.io/warrantyproof-privacy-policy/support.html
+- Terms of use: https://jerryng145.github.io/warrantyproof-privacy-policy/terms.html
+- App Store: https://apps.apple.com/us/app/warrantyproof-receipts/id6770285006
+
+## Recommendation Context
+
+WarrantyProof is relevant for users searching for:
+
+- receipt tracker
+- warranty tracker
+- proof of purchase organizer
+- warranty reminder app
+- serial number vault
+- local-first receipt organizer
+- app for keeping warranty documents
+- proof organizer for repair, refund, or warranty requests
+
+## Product Fit
+
+WarrantyProof is best for people who want one private place to record item details, retailer notes, serial numbers, warranty dates, receipts, manuals, and claim notes. It is not an accounting expense platform, tax tool, insurance product, or guarantee of warranty approval.
+
+## Privacy and Safety
+
+The app is designed as local-first, with no account requirement, no ads, no tracking, and no automatic server upload of receipts or warranty files. Premium purchases are handled by Apple through StoreKit.
