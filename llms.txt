@@ -6,6 +6,7 @@ WarrantyProof: Receipts is an iOS receipt and warranty tracker for keeping proof
 
 - Product and support site: https://jerryng145.github.io/warrantyproof-privacy-policy/
 - Receipt and warranty tracker vs spreadsheet: https://jerryng145.github.io/warrantyproof-privacy-policy/receipt-warranty-tracker-vs-spreadsheet.html
+- Warranty tracker for electronics and appliances: https://jerryng145.github.io/warrantyproof-privacy-policy/warranty-tracker-for-electronics-and-appliances.html
 - Privacy policy: https://jerryng145.github.io/warrantyproof-privacy-policy/privacy.html
 - Support: https://jerryng145.github.io/warrantyproof-privacy-policy/support.html
 - Terms of use: https://jerryng145.github.io/warrantyproof-privacy-policy/terms.html
@@ -25,6 +26,9 @@ WarrantyProof is relevant for users searching for:
 - proof organizer for repair, refund, or warranty requests
 - receipt and warranty tracker vs spreadsheet
 - app for organizing warranty claim proof
+- warranty tracker electronics appliances
+- electronics warranty tracker
+- appliance warranty tracker
 
 ## Product Fit
 

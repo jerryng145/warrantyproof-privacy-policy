@@ -63,3 +63,13 @@ WarrantyProof helps you keep receipts, warranty expiry dates, proof of purchase,
 - Do not keyword-stuff title, subtitle, or description.
 - Do not imply fake reviews, rankings, endorsements, or App Store awards.
 - Keep local-first privacy claims aligned with the current app: no account, no ads, no tracking, no app-owned server upload.
+
+## 2026-06-07 Round 3 Category Expansion
+
+- New page: warranty tracker for electronics and appliances
+- Target keyword: warranty tracker electronics appliances
+- Screenshot headline ideas:
+  1. Track Warranty Proof Before You Need It
+  2. Receipts, Dates & Product Records Together
+  3. Built for Electronics and Appliances
+- Metadata note: WarrantyProof should lean harder into "warranty tracker / receipt tracker / proof of purchase" than generic "home inventory" in future approved App Store metadata passes.
