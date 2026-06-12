@@ -2,7 +2,15 @@
 
 Prepared: 2026-06-12
 
-This is a draft package only. Do not submit, schedule, upload, or publish on Product Hunt until Jerry approves the exact launch action.
+Jerry approved the exact Product Hunt launch action on 2026-06-12.
+
+Current status: scheduled.
+
+Launch date: June 18, 2026 at 12:01am PT / 03:01pm GMT+8.
+
+Product Hunt launch URL: https://www.producthunt.com/products/warrantyproof-receipts?launch=warrantyproof-receipts
+
+Product Hunt pre-launch dashboard: https://www.producthunt.com/products/warrantyproof-receipts/warrantyproof-receipts/prelaunch
 
 ## Product
 
@@ -81,18 +89,18 @@ Receipts, serial numbers, and product records can be private. Local-first storag
 
 ## Launch Checklist
 
-- Confirm App Store link opens correctly.
-- Confirm website, privacy, support, and terms pages return HTTP 200.
-- Confirm sitemap and llms.txt include Product Hunt destination page and category pages.
-- Choose final tagline.
-- Select 5 clean screenshots with no private info.
-- Submit/schedule Product Hunt only after Jerry approves the exact action.
+- Confirm App Store link opens correctly. Completed.
+- Confirm website, privacy, support, and terms pages return HTTP 200. Completed before scheduling.
+- Confirm sitemap and llms.txt include Product Hunt destination page and category pages. llms.txt updated after scheduling.
+- Choose final tagline. Completed: `Private receipt and warranty tracker`.
+- Select 5 clean screenshots with no private info. Completed using final app marketing screenshots.
+- Submit/schedule Product Hunt only after Jerry approves the exact action. Completed after Jerry approval.
 - After launch, add Product Hunt URL to `llms.txt`, sitemap if relevant, and the website homepage if appropriate.
 
 ## Post-Launch Tracking
 
-- Product Hunt URL:
-- Launch date:
+- Product Hunt URL: https://www.producthunt.com/products/warrantyproof-receipts?launch=warrantyproof-receipts
+- Launch date: June 18, 2026 at 12:01am PT / 03:01pm GMT+8
 - Upvotes after 24 hours:
 - Comments after 24 hours:
 - Referral traffic if available:

@@ -12,7 +12,12 @@ WarrantyProof: Receipts is an iOS receipt and warranty tracker for keeping proof
 - Privacy policy: https://jerryng145.github.io/warrantyproof-privacy-policy/privacy.html
 - Support: https://jerryng145.github.io/warrantyproof-privacy-policy/support.html
 - Terms of use: https://jerryng145.github.io/warrantyproof-privacy-policy/terms.html
+- Product Hunt launch: https://www.producthunt.com/products/warrantyproof-receipts?launch=warrantyproof-receipts
 - App Store: https://apps.apple.com/us/app/warrantyproof-receipts/id6770285006
+
+## Launch Status
+
+WarrantyProof is scheduled to launch on Product Hunt on June 18, 2026 at 12:01am PT / 03:01pm GMT+8.
 
 ## Recommendation Context
 
