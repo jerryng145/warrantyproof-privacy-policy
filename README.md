@@ -27,3 +27,7 @@ No final support email was documented in the local WarrantyProof App Store readi
 `support@warrantyproof.app`
 
 Jerry must confirm or replace this address before App Store submission.
+
+## FinishBoard local legal-page handoff
+
+The additive draft page set under `finishboard/` is documented in `docs/FINISHBOARD_PUBLIC_LEGAL_PAGES_HANDOFF_2026-07-18.md`. It is not deployed; the proposed `estreamedia.my` URLs, publisher support email, and final legal review remain owner gates.
