@@ -28,4 +28,14 @@ The pages reuse the existing static-site approach: responsive viewport, system f
 - Terms copy now allows for premium plans or in-app purchases to be processed by the app store when offered.
 - Static local validation should be rerun before any push/deployment, followed by HTTPS readback of all target URLs.
 
+## 2026-07-19 deployment readback
+
+- GitHub Pages source deployment is public and returns HTTP 200 for:
+  - `https://jerryng145.github.io/warrantyproof-privacy-policy/finishboard/`
+  - `https://jerryng145.github.io/warrantyproof-privacy-policy/finishboard/support/`
+  - `https://jerryng145.github.io/warrantyproof-privacy-policy/finishboard/privacy/`
+  - `https://jerryng145.github.io/warrantyproof-privacy-policy/finishboard/terms/`
+- Each GitHub Pages URL read back `FinishBoard`, `E STREAM MEDIA`, and `admin@estreamedia.my`.
+- The requested canonical `www.estreamedia.my/finishboard/...` URLs currently return 404 and redirect to `/en/finishboard...`; do not mark the target-domain legal URL gate as PASS until the domain mapping is fixed or a different App Store URL is explicitly chosen.
+
 No DNS change, hosting-console action, ASC mutation, App Store submission, or app release action is recorded in this page report.

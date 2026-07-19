@@ -12,7 +12,7 @@
 - PASS: all four local pages have a viewport, title, description, canonical URL, responsive layout, accessible navigation label, and relative page links.
 - PASS: no keyboard, external account prompt, tracking script, or third-party network asset was added.
 - PASS FOR PUBLIC-PAGE PREP: support email is `admin@estreamedia.my`, publisher identity is `E STREAM MEDIA`, and the page set uses production-facing public page language.
-- DEPLOYMENT READBACK REQUIRED: after push/deployment, verify the canonical `estreamedia.my` URLs return HTTPS 200 and display FinishBoard content with mutual links.
+- PARTIAL DEPLOYMENT READBACK: GitHub Pages URLs under `https://jerryng145.github.io/warrantyproof-privacy-policy/finishboard/...` return HTTPS 200 and display FinishBoard content with `E STREAM MEDIA` and `admin@estreamedia.my`. The requested canonical `www.estreamedia.my/finishboard/...` URLs still return 404 and must not be used as PASS App Store legal URLs yet.
 
 ## Safety
 
