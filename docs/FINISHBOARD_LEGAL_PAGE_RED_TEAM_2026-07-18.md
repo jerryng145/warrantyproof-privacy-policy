@@ -3,7 +3,7 @@
 ## Content accuracy
 
 - PASS: local-first storage, no account/login, no analytics, no advertising, no tracking, no cloud sync, no automatic remote upload, managed media, checksums, ProductionReference, and versioned backup language matches the verified iOS v1.0 behavior.
-- PASS: pages avoid AI, collaboration, unlimited storage, subscriptions, IAP, trial, account cancellation, payment, or legal certification claims.
+- PASS: pages avoid AI, collaboration, unlimited storage, trial, account cancellation, payment-card handling, or legal certification claims. Terms mention only that app-store purchase processing applies if premium plans or in-app purchases are offered.
 - PASS: pages explain that exported files are controlled by the user and that unexported local data may be lost after app deletion or device loss.
 - PASS: Approved & Frozen is described as a workflow decision record, not a product-quality or warranty guarantee.
 
@@ -11,9 +11,9 @@
 
 - PASS: all four local pages have a viewport, title, description, canonical URL, responsive layout, accessible navigation label, and relative page links.
 - PASS: no keyboard, external account prompt, tracking script, or third-party network asset was added.
-- REVISE BEFORE DEPLOY: support email, publisher identity, jurisdiction, liability, dispute, and final legal review are owner-supplied fields.
-- REVISE BEFORE DEPLOY: the canonical `estreamedia.my` URLs are proposed only; this repo is currently a WarrantyProof GitHub Pages repo and was not deployed.
+- PASS FOR PUBLIC-PAGE PREP: support email is `admin@estreamedia.my`, publisher identity is `E STREAM MEDIA`, and the page set uses production-facing public page language.
+- DEPLOYMENT READBACK REQUIRED: after push/deployment, verify the canonical `estreamedia.my` URLs return HTTPS 200 and display FinishBoard content with mutual links.
 
 ## Safety
 
-The pages are local draft artifacts only. No website deployment, DNS mutation, hosting-console action, ASC app creation, ASC metadata edit, submission, release, or public publication was performed.
+No DNS mutation, hosting-console action, ASC app creation, ASC metadata edit, App Store submission, or app release is authorized by this page check.

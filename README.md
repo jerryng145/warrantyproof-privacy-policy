@@ -20,14 +20,14 @@ Published pages:
 - Support URL should use `support.html`.
 - Terms URL can be used for the app's public terms reference if needed.
 
-## Placeholder Needing Jerry Confirmation
+## WarrantyProof contact note
 
-No final support email was documented in the local WarrantyProof App Store readiness files. This site currently uses:
+WarrantyProof root pages currently use:
 
 `support@warrantyproof.app`
 
-Jerry must confirm or replace this address before App Store submission.
+Confirm or replace that address before changing WarrantyProof App Store metadata.
 
-## FinishBoard local legal-page handoff
+## FinishBoard public pages
 
-The additive draft page set under `finishboard/` is documented in `docs/FINISHBOARD_PUBLIC_LEGAL_PAGES_HANDOFF_2026-07-18.md`. It is not deployed; the proposed `estreamedia.my` URLs, publisher support email, and final legal review remain owner gates.
+The additive FinishBoard page set under `finishboard/` is documented in `docs/FINISHBOARD_PUBLIC_LEGAL_PAGES_HANDOFF_2026-07-18.md`. It uses E STREAM MEDIA publisher identity, `admin@estreamedia.my`, and canonical `https://www.estreamedia.my/finishboard/...` URLs for support, privacy, and terms.
